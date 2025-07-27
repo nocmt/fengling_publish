@@ -24,16 +24,16 @@
 
 ## 🎥 演示视频
 
-[快速入门](assets/videos/quick_start.mp4)
+[快速入门](quick_start.mp4)
 
 ---
 
 ## 🖼️ 界面截图
 
 <div align="center">
-  <img src="assets/S1.png" width="30%" alt="主界面">
-  <img src="assets/S2.png" width="30%" alt="设置">
-  <img src="assets/S3.png" width="30%" alt="管理">
+  <img src="S1.png" width="30%" alt="主界面">
+  <img src="S2.png" width="30%" alt="设置">
+  <img src="S3.png" width="30%" alt="管理">
 </div>
 
 ---
