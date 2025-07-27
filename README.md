@@ -38,13 +38,6 @@
 
 ---
 
-## 🛠️ 开发技术栈
-
-```mermaid
-Flutter
-```
-
-
 ## 📧 联系我们
 
 - 问题反馈：[GitHub Issues](https://github.com/nocmt/fengling_publish/issues)
